@@ -13,12 +13,11 @@
 - 🎓 Second-year Software Engineering student  
 - 🛠 Studying: Cybersecurity, C#, Data Structures, Networks  
 - 🌱 Currently exploring AI agents, automation, and system programming  
-#- 🌍 Based in Türkiye  
 
 - 🎓 软件工程大二学生  
-- 🛠 正在学习：网络安全、Swift、C#、数据结构、计算机网络  
+- 🛠 正在学习：网络安全、C#、数据结构、计算机网络  
 - 🌱 正在探索：AI 自动化代理、系统级编程  
-- 🌍 位于土耳其
+
 
 ---
 
@@ -27,7 +26,7 @@
 `Python` · `C` · `C#` · `C++` · `JavaScript`
 
 **Tools & Frameworks 工具与框架：**  
-`VS Code` · `Xcode` · `Git` · `Linux` · `n8n` · `Docker`
+`VS Code` · `` · `Git` · `Linux` · `n8n` · `Docker`
 
 **Interests 兴趣：**  
 Cybersecurity · AI Agents · Networking · iOS Dev  
