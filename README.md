@@ -11,9 +11,9 @@
 
 ### 🚀 About Me 关于我
 - 🎓 Second-year Software Engineering student  
-- 🛠 Studying: Cybersecurity, Swift, C#, Data Structures, Networks  
+- 🛠 Studying: Cybersecurity, C#, Data Structures, Networks  
 - 🌱 Currently exploring AI agents, automation, and system programming  
-- 🌍 Based in Türkiye  
+#- 🌍 Based in Türkiye  
 
 - 🎓 软件工程大二学生  
 - 🛠 正在学习：网络安全、Swift、C#、数据结构、计算机网络  
