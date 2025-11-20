@@ -37,7 +37,7 @@ Cybersecurity · AI Agents · Networking · iOS Dev
 ### 📈 GitHub Stats 统计
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jirosheno&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirosheno&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
